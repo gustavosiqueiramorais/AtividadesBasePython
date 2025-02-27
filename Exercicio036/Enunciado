@@ -1,1 +1,2 @@
-
+Um pequeno código que aprova empréstimos bancários para comprar uma casa. O código recebe o valor da casa, o salário e em quantos anos a pessoa irá pagar.
+Caso o empréstimo exceda 30% do salário da pessoa, o empréstimo será negado.
