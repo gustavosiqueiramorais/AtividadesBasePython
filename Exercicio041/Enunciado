@@ -1,0 +1,2 @@
+O programa a seguir recebe o ano de nascimento de um atleta e a partir disso, calcula a idade dele e diz ao usuario qual a categoria dele, podendo ser: mirim, infantil, junior, senior e master.
+Feito utilizando comandos de entrada de dados, estruturas condicionais, operadores aritmeticos e operadores relacionais.
