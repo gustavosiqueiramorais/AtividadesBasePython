@@ -1,0 +1,3 @@
+Um programa que vai receber dois numeros inteiros e dar as seguintes opções ao usuario: 1. Somar, 2. Multiplicar, 3. Retornar o maior, 4. Digitar novos numeros, 5. Sair do programa, o programa vai ler um numero 
+entre 1 e 5 e fazer as suas respectivas funções. Enquanto o usuario não digitar o numero 5, ele vai repetir o processo.
+Feito utilizando comandos de entrada de dados, estruturas de repetição, estruturas condicionais, operadores relacionais e operadores aritmeticos.
