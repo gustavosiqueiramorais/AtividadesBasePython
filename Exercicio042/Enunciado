@@ -1,0 +1,2 @@
+Um programa que recebe tres retas e vai me dizer se elas podem formar um triangulo, caso sim vai me dizer qual deles: triangulo isosceles, triangulo equilatero e triangulo escaleno.
+Feito utilizando comandos de entrada de dados, estruturas condicionais, operadores lógicos, operadores aritmeticos e noções de identação.
