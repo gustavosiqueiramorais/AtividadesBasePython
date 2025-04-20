@@ -1,0 +1,2 @@
+Um programa que le o sexo do usuario, podendo ser masculino [M] ou feminino [F], caso o usuario digite algo diferente do esperado a pergunta e repetida. No final, ele retorna qual foi o sexo digitado.
+Feito utilizando comandos de entrada de dados, estruturas de repetição e funções
