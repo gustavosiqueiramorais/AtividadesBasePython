@@ -1,0 +1,3 @@
+Um programa que vai sortear um numero de 0 a 10, em seguida, vai ler um numero do usuario e dizer se ele acertou, caso não tenha acertado vai dizer se o numero digitado foi maior ou menor que o numero sorteado
+e o programa vai ler novamente um numero digitado do usuario, o processo vai se repetir até que ele acerte. No final, vai retornar quantas tentativas foram necessarias para chegar ao numero sorteado.
+Feito utilizando bibliotecas, estruturas de repetição, operadores relacionais, operadores aritmeticos e estruturas condicionais.
